@@ -1,0 +1,10 @@
+{
+    "com.bwpl.TestPL": {
+        "source": {
+            "type": "local",
+            "path": "/Users/Baird/Desktop/TestPL"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
